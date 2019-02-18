@@ -1,0 +1,31 @@
+#canvas {
+    width: 893px;
+    height: 553px;
+    border: 1px solid #000;
+}
+
+#dvere {
+    position: absolute;
+    top: 405px;
+    left: 422px;
+}
+#okna {
+    position: absolute;
+    top: 134px;
+    left: 159px;
+    
+
+    
+}
+
+#strecha {
+    position: absolute;
+    top: 9px;
+    right: 466px;
+}
+
+#garaz {
+    position: absolute;
+    top: 370px;
+    left: 129px;
+}
